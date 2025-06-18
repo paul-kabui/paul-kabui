@@ -1,4 +1,4 @@
-# 👋 Hi, I'm [Your Name]
+# 👋 Hi, I'm PAUL KABUI
 
 I'm a backend-focused software developer specializing in the **.NET ecosystem**. I build scalable APIs, distributed systems, and cloud-native applications using modern Microsoft technologies. I also enjoy working with **TypeScript**and **React** when building full-stack solutions.
 
@@ -33,13 +33,5 @@ I'm a backend-focused software developer specializing in the **.NET ecosystem**.
 
 - Email: paulm9931@gmail.com
 
----
-
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=tokyonight)
-
----
 
 _Thanks for stopping by! 🚀_
