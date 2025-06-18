@@ -1,10 +1,45 @@
-### Hi there 👋
-I'm a FullStack developer specializing in Typescript, C# and Python
+# 👋 Hi, I'm [Your Name]
 
-<h4>Preferred Technologies:</h4>
-I can work with any tools but often times i always find myself using:
-Node Express, Next js and .NET Framework i.e ASP CORE, ASP MVC and ASP Web APIs for BackEnd Services
-JQuery, React for FrontEnd And SQL Databases
-I'm open to collaborations for creative projects in TS, C# and Python
-<br/>
-I'm currently advancing my skills in .Net
+I'm a backend-focused software developer specializing in the **.NET ecosystem**. I build scalable APIs, distributed systems, and cloud-native applications using modern Microsoft technologies. I also enjoy working with **TypeScript**and **React** when building full-stack solutions.
+
+---
+
+## 🧰 Tech Stack
+
+### 💻 Backend
+- **C# / .NET** (ASP.NET Core,Web MVC, Web API, Entity Framework Core, Dapper and identity framework core)
+- RESTful APIs, Clean Architecture, CQRS, DDD
+- SQL Server, PostgreSQL and Oracle
+
+### ☁️ Cloud & DevOps
+- Azure (App Services, Functions, Storage, etc.)
+- Docker, GitHub Actions, CI/CD pipelines
+
+### 🖥️ Frontend & Scripting
+- React, Next.js, TypeScript
+- Python for scripting and automation
+
+---
+
+## 📌 What I'm Working On
+
+- Building modern .NET backend services with Clean Architecture
+- Creating tools and microservices to simplify backend development
+- Experimenting with Blazor and serverless functions on Azure
+
+---
+
+## 📫 Let's Connect
+
+- Email: paulm9931@gmail.com
+
+---
+
+## 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=tokyonight)
+
+---
+
+_Thanks for stopping by! 🚀_
